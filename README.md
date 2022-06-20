@@ -1,4 +1,7 @@
 ## Werner zegt, Hallo! 👋
+
+**Werner** is Scouts en hart en nieren, je zou dus zeggen dat die gouw voor het primitieve kiest. Hier zit ook zeker een kern van waarheid in, maar hij is ook geinteresseerd in hoe je met digitalisering de logistiek rond Scouting eenvoudiger kan maken.
+
 <!--
 **wernerveldman/wernerveldman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
